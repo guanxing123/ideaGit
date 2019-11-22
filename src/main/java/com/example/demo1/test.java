@@ -5,5 +5,6 @@ public class test {
         System.out.println("111");
         System.out.println("888");
         System.out.println("999");
+        System.out.println("000");
     }
 }
